@@ -1,1 +1,16 @@
 This is the second text file of the project to be added.
+
+In this file The details about the project being uploaded on github is given.
+
+After making the git available locally on the device we upload it to the github.
+
+For this we login/signin to github using our email address and password.
+After logging in there we create a repository there with a name and description to the project.
+
+After creating it we get and specific address got the git. (ex. https://github.com/Champ1207/MyTrailProject1.git)).
+
+After this we push the locally created git to the github server.
+for this we first create a remote between the two servers so as to upload the files. We do it by using the command as "git remote add origin 'link to github server' ".
+After this connection is established, we then push the files to the web github server.
+For pushing soo we use the command 'git push -u origin master' ".
+The all the files are uploaded to github which can be accessed by anyone with the link.
