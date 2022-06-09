@@ -11,3 +11,7 @@ To add an operational username to the git we use the command '  git config --glo
 
 Then to commit our project to git we use the command ' git commit -m "Message to be given for the recognition of the commits" '.
 To check the commit activities that we do we use the command as " git log ".
+
+If we want to check the difference between the file before the last commit and the file we currently have we use the command "git diff 'file name to be checked' ".
+
+If we want to go back to the last version of that we edited and commited we use the command " git checkout 'filename that is to be rolled back' ".
