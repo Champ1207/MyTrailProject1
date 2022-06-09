@@ -1,3 +1,13 @@
 This The First Test file which i am going to upload on the git and learn to use git usage.
 
 A point to remember that to open a file using cmd MacOS uses the keyword open whereas in windows to that operation we use the "start" keyword.
+
+
+To initiate a git commit we use the command "git init".
+To get the status of the project files we use the command "git status".
+Then to add the projects files to change statuts log we use the command "git add .". "." is used to represent that all files are to be selected.
+To add an operational email to the git we use the command ' git config --global user.email "Our email address" '.
+To add an operational username to the git we use the command '  git config --global user.name "Our username" '.
+
+Then to commit our project to git we use the command ' git commit -m "Message to be given for the recognition of the commits" '.
+To check the commit activities that we do we use the command as " git log ".
