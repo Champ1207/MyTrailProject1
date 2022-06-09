@@ -1,0 +1,3 @@
+This The First Test file which i am going to upload on the git and learn to use git usage.
+
+A point to remember that to open a file using cmd MacOS uses the keyword open whereas in windows to that operation we use the "start" keyword.
